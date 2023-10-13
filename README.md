@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django, Python**
 
-- 📫 You can contact me via: kursatarifoglu@gmail.com
+- 📫 You can contact me via: **kursatarifoglu@gmail.com**
   
 
 ## 🌐 Socials:
