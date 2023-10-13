@@ -6,7 +6,6 @@
 
 - 📫 You can contact me via: kursatarifoglu@gmail.com
   
-<p align="left"> <a href="https://twitter.com/gokbyk" target="blank"><img src="https://img.shields.io/twitter/follow/gokbyk?logo=twitter&style=for-the-badge" alt="gokbyk" /></a> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kursatarifoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kürşat-arifoğlu-966089157)  
