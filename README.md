@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, action and solution-based Full Stack Developer from Turkey.</h3>
 
 
-- 🌱 Currently learning **Django, Python**
+- ⏳ Currently learning **Django, Python**
 
 - 📫 Contact me via: **kursatarifoglu@gmail.com**
   
