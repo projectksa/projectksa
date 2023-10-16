@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Kürşat.</h1>
+<h1 align="center">Hi👋, I am Kürşat.</h1>
 <h3 align="center">A passionate, action and solution-based Full Stack Developer from Turkey.</h3>
 
 
